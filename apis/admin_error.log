@@ -1,0 +1,46 @@
+Admin Update - MySQL Error: Admin Update - MySQL Error: Admin Update - MySQL Error: Admin Update - MySQL Error: Admin Update - MySQL Error: Admin Update - Raw POST data: Array
+(
+    [id] => 0
+    [name] => tamer1
+    [email] => taamir1.mm@gmail.com
+    [password] => 
+    [isActive] => 0
+    [action] => updateAdmin
+)
+Admin Update - Processed ID: 0Admin Update - Name: tamer1Admin Update - Email: taamir1.mm@gmail.comAdmin Update - IsActive: 0Admin Update - Final Query String: UPDATE `admins` SET `name` = ?, `email` = ?, `isActive` = ? WHERE `id` = ?Admin Update - Bind Types: ssiiAdmin Update - Bind Params (values): tamer1, taamir1.mm@gmail.com, 0, 0Admin Update - Raw POST data: Array
+(
+    [id] => 0
+    [name] => tamer1
+    [email] => taamir1.mm@gmail.com
+    [password] => 
+    [isActive] => 1
+    [action] => updateAdmin
+)
+Admin Update - Processed ID: 0Admin Update - Name: tamer1Admin Update - Email: taamir1.mm@gmail.comAdmin Update - IsActive: 1Admin Update - Final Query String: UPDATE `admins` SET `name` = ?, `email` = ?, `isActive` = ? WHERE `id` = ?Admin Update - Bind Types: ssiiAdmin Update - Bind Params (values): tamer1, taamir1.mm@gmail.com, 1, 0Admin Update - Raw POST data: Array
+(
+    [id] => 0
+    [name] => tamer1
+    [email] => taamir1.mm@gmail.com
+    [password] => 
+    [isActive] => 0
+    [action] => updateAdmin
+)
+Admin Update - Processed ID: 0Admin Update - Name: tamer1Admin Update - Email: taamir1.mm@gmail.comAdmin Update - IsActive: 0Admin Update - Final Query String: UPDATE `admins` SET `name` = ?, `email` = ?, `isActive` = ? WHERE `id` = ?Admin Update - Bind Types: ssiiAdmin Update - Bind Params (values): tamer1, taamir1.mm@gmail.com, 0, 0Admin Update - Raw POST data: Array
+(
+    [id] => 2
+    [name] => tamer1
+    [email] => taamir1.mm@gmail.com
+    [password] => 
+    [isActive] => 0
+    [action] => updateAdmin
+)
+Admin Update - Processed ID: 2Admin Update - Name: tamer1Admin Update - Email: taamir1.mm@gmail.comAdmin Update - IsActive: 0Admin Update - Final Query String: UPDATE `admins` SET `name` = ?, `email` = ?, `isActive` = ? WHERE `id` = ?Admin Update - Bind Types: ssiiAdmin Update - Bind Params (values): tamer1, taamir1.mm@gmail.com, 0, 2Admin Update - Raw POST data: Array
+(
+    [id] => 2
+    [name] => tamer1
+    [email] => taamir1.mm@gmail.com
+    [password] => 
+    [isActive] => 1
+    [action] => updateAdmin
+)
+Admin Update - Processed ID: 2Admin Update - Name: tamer1Admin Update - Email: taamir1.mm@gmail.comAdmin Update - IsActive: 1Admin Update - Final Query String: UPDATE `admins` SET `name` = ?, `email` = ?, `isActive` = ? WHERE `id` = ?Admin Update - Bind Types: ssiiAdmin Update - Bind Params (values): tamer1, taamir1.mm@gmail.com, 1, 2
